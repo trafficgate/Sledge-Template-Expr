@@ -7,7 +7,7 @@ package Sledge::Template::Expr;
 
 use strict;
 use vars qw($VERSION);
-$VERSION = 0.01;
+$VERSION = 0.03;
 
 use base qw(Sledge::Template);
 use HTML::Template::Expr 0.03;

@@ -1,5 +1,10 @@
 Revision history for Perl extension Sledge::Template::Expr
 
+0.03  Fri Feb 14 20:57:11 JST 2003
+	- Version gotcha fixed
+	* s/use Sledge::Hammer//;
+	  (Thanks to Takefumi Kimura)
+
 0.02  Sun Apr 28 03:41:46 JST 2002
 	* import() で create_template() を定義
 
