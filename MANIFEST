@@ -1,0 +1,8 @@
+Changes
+MANIFEST
+Makefile.PL
+lib/Sledge/Template/Expr.pm
+t/00_compile.t
+t/01_expr.t
+t/02_import.t
+t/template/foo.html

@@ -1,0 +1,7 @@
+Revision history for Perl extension Sledge::Template::Expr
+
+0.02  Sun Apr 28 03:41:46 JST 2002
+	* import() で create_template() を定義
+
+0.01  Thu Jan 10 19:42:25 2002
+	- original version
