@@ -9,9 +9,7 @@ use strict;
 use vars qw($VERSION);
 $VERSION = 0.01;
 
-use Sledge::Hammer 0.18_04;
 use base qw(Sledge::Template);
-
 use HTML::Template::Expr 0.03;
 
 sub import {
